@@ -3,6 +3,7 @@
 
 ## 相关信息
 iToken官网 http://www.itoken.com/ , 底部Contact Us可以邮件联系到官网团队
+
 iToken处理此事开发的网站  https://www.refundyourcoins.io/
 
 ## 微信扫码加群：
